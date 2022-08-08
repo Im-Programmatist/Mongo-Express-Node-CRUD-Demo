@@ -1,4 +1,6 @@
-# Mongo-MOngoose-Express-NodeJs Website with CRUD operation and JWT Authentication-
+# Mongo-Mongoose-Express-NodeJs Demo Website
+
+## With CRUD operation and JWT Authentication
 
 ## `Backend`
 1. This is the server part of the application and we will create all the stuff related to server in this directory.
