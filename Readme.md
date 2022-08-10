@@ -27,9 +27,7 @@
 
 2. Initiate `Git` and create `gitignore file` in root directory so that we can push our frontend and backend code in one respository**
 
-3. Initiate node in root directory using `$ npm init`, this will create package.json for `global` root directory. In global directory we will going to install 2 packages - concurrently and nodemon**
-
-4. Folder Structure as below -
+3. Folder Structure as below -
 ### node_module - created by default using npm init
 
 ### src- Source where all working folder place, this directory contains following folders ⬇️
