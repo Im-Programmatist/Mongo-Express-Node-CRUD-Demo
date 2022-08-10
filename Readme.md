@@ -3,13 +3,7 @@
 ## With CRUD operation and JWT Authentication
 
 ## `Backend`
-1. This is the server part of the application and we will create all the stuff related to server in this directory.
-
-2. We will have to make separate node_module folder for backend using initiating the node package. So, using this special package.json we can install all the packages which is only required for server related developement. 
-
-3. We can add Mocha/Tea testing framework that is used to perform tests within our application.It makes sure everything works correctly. 
-
-4. Commands to create Node.js project in Backend folder.
+1. Commands to create Node.js project in Backend folder.
 #### `$ npm init` OR `$ npm init -y`
 - initiate node in folder and this will create package.json and  package.lock
 #### `$ npm install --save-dev babel-cli` 
@@ -32,11 +26,11 @@
 - Using jsonwebtoken we can create token and authenticate user while using API. JWT is used for stateless authentication mechanisms for users and providers, this means maintaining session is on the client-side instead of storing sessions on the server.
 #### We will keep on adding packages as per our need
 
-6. Initiate `Git` and create `gitignore file` in root directory so that we can push our frontend and backend code in one respository**
+2. Initiate `Git` and create `gitignore file` in root directory so that we can push our frontend and backend code in one respository**
 
-7. Initiate node in root directory using `$ npm init`, this will create package.json for `global` root directory. In global directory we will going to install 2 packages - concurrently and nodemon**
+3. Initiate node in root directory using `$ npm init`, this will create package.json for `global` root directory. In global directory we will going to install 2 packages - concurrently and nodemon**
 
-8. Folder Structure as below -
+4. Folder Structure as below -
 ### node_module - created by default using npm init
 
 ### src- Source where all working folder place, this directory contains following folders ⬇️
