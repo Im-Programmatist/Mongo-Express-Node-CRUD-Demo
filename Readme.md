@@ -2,7 +2,6 @@
 
 ## With CRUD operation and JWT Authentication
 
-## `Backend`
 1. Commands to create Node.js project in Backend folder.
 #### `$ npm init` OR `$ npm init -y`
 - initiate node in folder and this will create package.json and  package.lock
