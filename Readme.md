@@ -56,3 +56,6 @@
 
 ### package.json & package-lock.json - package manager create this file, keep record of all the packages used in node project
 
+# Reference - 
+**https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/**
+
